@@ -1,10 +1,16 @@
 /*Style CSS*/
-body { }
 h1 {
-text-aliign:center;
+	text-decoration-style: bold;
+    text-align: center:
 }
-p {
-	background-color: grey;
-	border-style: solid;
-	border-width: 2px;
+h2 { 
+	text-align:center;
+	border-style:solid;
+     border-width: 2px;} 
+p{
+	text-align: blue
+	background-color:grey;
+	border-style:solid;
+	border-width:2px;
 }
+
